@@ -6,5 +6,9 @@ config:
 icons:
   bash: ""
   nvim: ""
-  lazygit: ""
+  lazygit: ""
+  node: ""
+  ssh: "󰣀"
+  ranger: "󰙅"
+  man: "󰈙"
 
